@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-pins/commit/d865b27098b525ab6f39e8799abdb168428d7ae2",
       "git:hexsha": "d865b27098b525ab6f39e8799abdb168428d7ae2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1a7"
     },
     {
