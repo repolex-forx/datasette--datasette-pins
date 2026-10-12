@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-pins",
+  "versions": [
+    {
+      "commit": "d865b27098b525ab6f39e8799abdb168428d7ae2",
+      "parsed_at": "2026-10-12T19:29:03.318470+00:00",
+      "tag": "0.1a7",
+      "filetree": "filetree/d865b27098b525ab6f39e8799abdb168428d7ae2.nq.gz",
+      "blobs": [
+        "blob/9b1ce484017e8ebf6f720a66022893bd3768d6f4.nq.gz",
+        "blob/011a824d90fe1158d80d286b38dda9688aa2b7c9.nq.gz",
+        "blob/4670f172539a3bc84e4d2995b1b834cc1e617e54.nq.gz",
+        "blob/fb7ee9cf5ff86e345235e2a410d8543f9d9461f5.nq.gz",
+        "blob/4743b6ff8aa516448d8ab53225894a8dacb1d1fc.nq.gz",
+        "blob/7709f63bf1532c133fa4229c0e57b162d2e230ef.nq.gz",
+        "blob/4c09bfcdb03f189d745797b783e2c391b06022be.nq.gz",
+        "blob/cc496b7ea14de9484cc3496542cfa3fd54831513.nq.gz",
+        "blob/085dc3dc51bdd92df80746f80e1e7a88d309540e.nq.gz",
+        "blob/6619b9a3934a6b51770286db198386c605c25e40.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/53b9333dcbbd8356535f6b6e75bc35e02d8b79ad.nq.gz",
+        "blob/d7f1525c069cee10ecf4b110361a434a3724edfe.nq.gz",
+        "blob/5e6bf59f5a20ffbc2e0370b2f3d77d1e56c3c9f3.nq.gz",
+        "blob/0e8cee6b19544b04784ff39530fd7441dadc3277.nq.gz",
+        "blob/cecec339c9248e0c7048bed046ec1358f638067d.nq.gz",
+        "blob/437073749a8f8efcf06bf6593a52e6ede4a44f30.nq.gz",
+        "blob/1003626b34059a91b036d392eda892bef2ae1272.nq.gz",
+        "blob/d35c7c1765e447891a95c18bddf171da6ad6e8f8.nq.gz",
+        "blob/b468a87e1138cc8086edaef343f63d7c27f7e8cf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
