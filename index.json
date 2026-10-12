@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-pins",
+  "versions": [
+    {
+      "commit": "d865b27098b525ab6f39e8799abdb168428d7ae2",
+      "tag": "0.1a7",
+      "parsed_at": "2026-10-12T19:31:30.674923+00:00"
+    }
+  ]
+}
